@@ -1,16 +1,29 @@
-📚 Livraria Online
+# 📚 Livraria Online
 
 Aplicação web para compra e navegação de livros.
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
-Busca de livros
-Visualização de detalhes
-Carrinho de compras
-Login e cadastro
+* Busca de livros
+* Visualização de detalhes
+* Carrinho de compras
+* Login e cadastro
 
-🛠️ Tecnologias
+## 🛠️ Tecnologias
 
-Frontend: (ex: React)
-Backend: (ex: Node.js)
-Banco de Dados: (ex: MongoDB)
+* Frontend: (ex: React)
+* Backend: (ex: Node.js)
+* Banco de Dados: (ex: MongoDB)
+
+## ⚙️ Como rodar
+
+```bash
+git clone https://github.com/seu-usuario/livraria-online.git
+cd livraria-online
+npm install
+npm run dev
+```
+
+## 📄 Licença
+
+MIT
